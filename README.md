@@ -1,5 +1,5 @@
 # Ian Borges  
-**Engenheiro de Computação | Cientista de Dados & Desenvolvedor Backend**  
+**Engenheiro de Computação | Analista de Dados & Desenvolvedor Backend**  
 📚 Cursando Engenharia da Computação na UNIVESP  
 
 ## 🛠️ Habilidades Técnicas  
@@ -23,7 +23,7 @@
 
 ## 🚀 Projetos Relevantes
 
-### 💾 Ciência de Dados
+### 💾 Análise de Dados
 [🔗 **From Downtown**](https://github.com/borgesip/From-Downtown-Projeto-GoogleDataAnalytics)  
 Análise da evolução da NBA após adoção da linha de 3 pontos (Python, Pandas, Visualização)
 
