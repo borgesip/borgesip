@@ -1,4 +1,4 @@
-# [Ian Borges]  
+# Ian Borges  
 **Engenheiro de Computação | Cientista de Dados**  
 📚 Cursando Engenharia da Computação na UNIVESP  
 
