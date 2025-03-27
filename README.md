@@ -1,23 +1,39 @@
 # Ian Borges  
-**Engenheiro de Computação | Cientista de Dados**  
+**Engenheiro de Computação | Cientista de Dados & Desenvolvedor Backend**  
 📚 Cursando Engenharia da Computação na UNIVESP  
 
 ## 🛠️ Habilidades Técnicas  
 
-### 📊 Ciência de Dados  
-- Análise Exploratória de Dados (EDA)  
-- Limpeza e Pré-processamento de Dados  
-- Modelagem Estatística e Machine Learning  
-- Visualização de Dados com Matplotlib/Seaborn  
+### 🔍 Ciência de Dados (Foco Principal)
+- **Python** (Pandas, NumPy, Scikit-learn) para análise e modelagem
+- **SQL** avançado para ETL e consultas complexas
+- Visualização de Dados (Matplotlib, Seaborn)
+- Machine Learning (modelos supervisionados)
 
-### 💻 Programação  
-- **Python** (Pandas, NumPy, Scikit-learn)  
-- SQL para Análise de Dados  
-- Git e Controle de Versão  
+### ⚙️ Desenvolvimento Backend (Foco Secundário)
+- **Java** (Spring Boot, JPA/Hibernate)
+- Construção de APIs REST
+- Bancos de dados relacionais e NoSQL
+- Arquitetura de microsserviços
 
-## 🚀 Projetos  
-[🔗 **From Downton**](https://github.com/borgesip/From-Downtown-Projeto-GoogleDataAnalytics) - Análise da evolução da NBA após a adoção da linha de 3 pontos em 1979.
+### 🛠️ Ferramentas Gerais
+- Git/GitHub para versionamento
+- Docker para conteinerização
+- Metodologias Ágeis (Scrum)
+
+## 🚀 Projetos Relevantes
+
+### 💾 Ciência de Dados
+[🔗 **From Downtown**](https://github.com/borgesip/From-Downtown-Projeto-GoogleDataAnalytics)  
+Análise da evolução da NBA após adoção da linha de 3 pontos (Python, Pandas, Visualização)
+
+### ⚙️ Backend
+[🔗 **Sistema de Gerenciamento**](link)  
+API REST para gestão de dados usando Java Spring Boot e PostgreSQL
 
 ## 📫 Contato  
 - LinkedIn: [borgesip](https://linkedin.com/in/borgesip)  
-- Email: ian.net736@slmail.me
+- GitHub: [borgesip](https://github.com/borgesip)  
+- Email: ian.net736@slmail.me  
+
+> "Combinando habilidades analíticas de dados com sólidos conhecimentos em desenvolvimento backend para criar soluções completas"
