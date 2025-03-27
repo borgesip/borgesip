@@ -16,8 +16,7 @@
 - Git e Controle de Versão  
 
 ## 🚀 Projetos  
-[🔗 **Projeto 1**](link) - Descrição breve do projeto e tecnologias usadas  
-[🔗 **Projeto 2**](link) - Descrição breve do projeto e tecnologias usadas  
+[🔗 **From Downton**](https://github.com/borgesip/From-Downtown-Projeto-GoogleDataAnalytics) - Análise da evolução da NBA após a adoção da linha de 3 pontos em 1979.
 
 ## 📫 Contato  
 - LinkedIn: [borgesip](linkedin.com/in/borgesip)  
