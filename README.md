@@ -19,5 +19,5 @@
 [🔗 **From Downton**](https://github.com/borgesip/From-Downtown-Projeto-GoogleDataAnalytics) - Análise da evolução da NBA após a adoção da linha de 3 pontos em 1979.
 
 ## 📫 Contato  
-- LinkedIn: [borgesip](linkedin.com/in/borgesip)  
+- LinkedIn: [borgesip](https://linkedin.com/in/borgesip)  
 - Email: ian.net736@slmail.me
