@@ -1,42 +1,24 @@
-Engenheiro de Dados & Cientista de Dados em Formação
+# [Ian Borges]  
+**Engenheiro de Computação | Cientista de Dados**  
+📚 Cursando Engenharia da Computação na UNIVESP  
 
-🎓 Cursando Engenharia da Computação pela Univesp
-💻 Apaixonado por análise de dados, machine learning e automação
+## 🛠️ Habilidades Técnicas  
 
-Habilidades Técnicas:
-📊 Análise de Dados
+### 📊 Ciência de Dados  
+- Análise Exploratória de Dados (EDA)  
+- Limpeza e Pré-processamento de Dados  
+- Modelagem Estatística e Machine Learning  
+- Visualização de Dados com Matplotlib/Seaborn  
 
-Exploração e limpeza de dados (ETL)
+### 💻 Programação  
+- **Python** (Pandas, NumPy, Scikit-learn)  
+- SQL para Análise de Dados  
+- Git e Controle de Versão  
 
-Pré-processamento e feature engineering
+## 🚀 Projetos  
+[🔗 **Projeto 1**](link) - Descrição breve do projeto e tecnologias usadas  
+[🔗 **Projeto 2**](link) - Descrição breve do projeto e tecnologias usadas  
 
-Modelagem estatística e algoritmos de ML
-
-🐍 Python para Ciência de Dados
-
-Bibliotecas: Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn
-
-Automação de pipelines e análise exploratória (EDA)
-
-🗃️ Banco de Dados & SQL
-
-Consultas avançadas, otimização e manipulação de dados
-
-📈 Visualização de Dados
-
-Criação de dashboards e gráficos para storytelling
-
-Objetivo:
-Busco oportunidades para aplicar meus conhecimentos em projetos de dados reais, contribuindo com soluções analíticas e modelos preditivos. Aberto a colaborações em open source e desafios de ML/Dados!
-
-🔗 Portfólio em construção (confira meus repositórios 👇).
-
-"Transformando dados em insights acionáveis."
-
-Destaques:
-
-Projetos acadêmicos e pessoais com foco em resolução de problemas.
-
-Familiaridade com Git e boas práticas de código.
-
-👉 Vamos conectar? (Adicione seu LinkedIn ou e-mail aqui).
+## 📫 Contato  
+- LinkedIn: [borgesip](linkedin.com/in/borgesip)  
+- Email: ian.net736@slmail.me
