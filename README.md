@@ -4,13 +4,13 @@
 
 ## 🛠️ Habilidades Técnicas  
 
-### 🔍 Ciência de Dados (Foco Principal)
+### 🔍 Ciência de Dados
 - **Python** (Pandas, NumPy, Scikit-learn) para análise e modelagem
 - **SQL** avançado para ETL e consultas complexas
 - Visualização de Dados (Matplotlib, Seaborn)
 - Machine Learning (modelos supervisionados)
 
-### ⚙️ Desenvolvimento Backend (Foco Secundário)
+### ⚙️ Desenvolvimento Backend 
 - **Java** (Spring Boot, JPA/Hibernate)
 - Construção de APIs REST
 - Bancos de dados relacionais e NoSQL
@@ -21,7 +21,7 @@
 - Docker para conteinerização
 - Metodologias Ágeis (Scrum)
 
-## 🚀 Projetos Relevantes
+## 🚀 Projetos
 
 ### 💾 Análise de Dados
 [🔗 **From Downtown**](https://github.com/borgesip/From-Downtown-Projeto-GoogleDataAnalytics)  
