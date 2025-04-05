@@ -1,39 +1,47 @@
 # Ian Borges  
-**Engenheiro de Computação | Analista de Dados**  
-📚 Cursando Engenharia da Computação na UNIVESP  
+Analista de Dados em Formação | Engenharia de Computação  
+
+📚 Cursando Engenharia de Computação na UNIVESP  
+
+---
 
 ## 🛠️ Habilidades Técnicas  
 
-### 🔍 Ciência de Dados
-- **Python** (Pandas, NumPy, Scikit-learn) para análise e modelagem
-- **SQL** avançado para ETL e consultas complexas
-- Visualização de Dados (Matplotlib, Seaborn)
-- Machine Learning (modelos supervisionados)
+### 📊 Análise e Engenharia de Dados  
+- SQL Avançado (PostgreSQL) — ETL, CTEs, Window Functions, Data Cleaning  
+- Python para Análise de Dados (Pandas, NumPy) e Automação de Processos  
+- Visualização de Dados (Power BI, Apache Superset, Matplotlib, Seaborn)  
+- Criação de Dashboards e Relatórios Gerenciais  
+- Conceitos de Data Warehouse, ETL/ELT, e Modelagem Dimensional (Star Schema)  
+- Conceitos Iniciais de Engenharia de Dados (dbt, Prefect, AWS S3)  
 
-### ⚙️ Desenvolvimento Backend 
-- **Java** (Spring Boot, JPA/Hibernate)
-- Construção de APIs REST
-- Bancos de dados relacionais e NoSQL
-- Arquitetura de microsserviços
+### 🧰 Ferramentas e Práticas  
+- Git e GitHub para versionamento e colaboração  
+- Docker (ambientes isolados e deploy)  
+- Metodologias Ágeis (Scrum)  
+- Conceitos Básicos de Cloud (AWS)  
 
-### 🛠️ Ferramentas Gerais
-- Git/GitHub para versionamento
-- Docker para conteinerização
-- Metodologias Ágeis (Scrum)
+---
 
-## 🚀 Projetos
+## 🚀 Projetos  
 
-### 💾 Análise de Dados
-[🔗 **From Downtown**](https://github.com/borgesip/From-Downtown-Projeto-GoogleDataAnalytics)  
-Análise da evolução da NBA após adoção da linha de 3 pontos (Python, Pandas, Visualização)
+### 💾 Análise de Dados  
 
-### ⚙️ Backend
-[🔗 **Sistema de Gerenciamento**](link)  
-API REST para gestão de dados usando Java Spring Boot e PostgreSQL
+🔗 *From Downtown*  
+Análise da evolução da NBA após adoção da linha de 3 pontos  
+*Stack:* Python, Pandas, Visualização  
+
+---
+
+### 📊 Projetos em Desenvolvimento  
+
+- Análise Financeira de Vendas com SQL e Power BI *(em andamento)*  
+- Pipeline de Dados com dbt + Prefect + PostgreSQL *(em andamento)*  
+- Dashboard de Dados Públicos sobre Educação no Brasil *(em andamento)*  
+
+---
 
 ## 📫 Contato  
-- LinkedIn: [borgesip](https://linkedin.com/in/borgesip)  
-- GitHub: [borgesip](https://github.com/borgesip)  
+- [LinkedIn](https://linkedin.com/in/borgesip)  
+- [GitHub](https://github.com/borgesip)  
 - Email: ian.net736@slmail.me  
-
-> "Combinando habilidades analíticas de dados com sólidos conhecimentos em desenvolvimento backend para criar soluções completas"
