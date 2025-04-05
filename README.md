@@ -1,5 +1,5 @@
 # Ian Borges  
-**Engenheiro de Computação | Analista de Dados & Desenvolvedor Backend**  
+**Engenheiro de Computação | Analista de Dados**  
 📚 Cursando Engenharia da Computação na UNIVESP  
 
 ## 🛠️ Habilidades Técnicas  
