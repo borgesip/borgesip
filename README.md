@@ -1,5 +1,5 @@
 # Ian Borges  
-Analista de Dados em Formação | Engenharia de Computação  
+**Analista de Dados | Engenheiro de Computação**  
 
 📚 Cursando Engenharia de Computação na UNIVESP  
 
