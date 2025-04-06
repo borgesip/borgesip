@@ -29,19 +29,11 @@
 
 🔗 *From Downtown*  
 Análise da evolução da NBA após adoção da linha de 3 pontos  
-*Stack:* Python, Pandas, Visualização  
-
----
-
-### 📊 Projetos em Desenvolvimento  
-
-- Análise Financeira de Vendas com SQL e Power BI *(em andamento)*  
-- Pipeline de Dados com dbt + Prefect + PostgreSQL *(em andamento)*  
-- Dashboard de Dados Públicos sobre Educação no Brasil *(em andamento)*  
+*Stack:* Python, Pandas, Visualização   
 
 ---
 
 ## 📫 Contato  
 - [LinkedIn](https://linkedin.com/in/borgesip)  
 - [GitHub](https://github.com/borgesip)  
-- Email: ian.net736@slmail.me  
+- Email: borgesip@proton.me 
