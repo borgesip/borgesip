@@ -29,7 +29,7 @@
 
 🔗 *From Downtown*  
 Análise da evolução da NBA após adoção da linha de 3 pontos  
-*Stack:* Python, Pandas, Visualização   
+*Stack:* Jupyter Notebook, SQL, R, dplyr, ggplot2, Tableau   
 
 ---
 
