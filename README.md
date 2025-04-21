@@ -33,7 +33,7 @@ Análise de dados de vendas para segmentação de clientes (RFM) e retenção (C
 - Realizei segmentação RFM, identificando que 20.5% dos clientes (“Campeões”) geram 48.3% da receita.  
 - Analisei retenção com Cohort Analysis, destacando quedas iniciais e picos sazonais.  
 - Criei um dashboard interativo com Streamlit e Plotly, incluindo RFM, Cohort, top produtos e tendências de vendas.  
-- [Link para o Dashboard](https://ecommerce-data-analysis-borgesip.streamlit.app/)  
+- [Dashboard](https://ecommerce-data-analysis-borgesip.streamlit.app/)  
 *Stack:* Python, Pandas, PostgreSQL, Streamlit, Plotly, Seaborn, Jupyter Notebook, GitHub  
 
 🔗 *From Downtown: A Ascensão dos Arremessos de 3 Pontos*  
@@ -43,7 +43,7 @@ Análise da evolução dos arremessos de 3 pontos na NBA, explorando seu impacto
 - Analisei o impacto nos pivôs, que passaram a contribuir mais nos arremessos de longa distância, adaptando-se ao novo estilo de jogo.  
 - Concluí que a eficiência nos arremessos de 3 pontos é crucial para o sucesso, com versatilidade sendo essencial para todas as posições.  
 - Utilizei SQL para consultas e agregações, R (dplyr, ggplot2) para manipulação e visualizações, e Tableau para dashboards interativos.  
-- [Repositório GitHub](https://github.com/borgesip/from-downtown) *(substitua pelo link real do repositório, se disponível)*  
+- [Repositório GitHub](https://github.com/borgesip/From-Downtown-Projeto-GoogleDataAnalytics)  
 *Stack:* SQL, R (dplyr, ggplot2), Tableau, Jupyter Notebook  
 
 ---
