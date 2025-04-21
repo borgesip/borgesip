@@ -1,7 +1,6 @@
 # Ian Borges  
 ### **Analista de Dados | Engenheiro de Computação**  
 ---
-
 ## 🛠️ Habilidades Técnicas  
 
 ### 📊 Análise e Engenharia de Dados  
