@@ -11,8 +11,6 @@ Computer Engineering undergraduate with a passion for using data and technology 
 
 ### 🛠️ My Tech Stack
 
-*(Mantenha a mesma seção de "Tech Stack" que você já tem. Ela é a prova da sua força técnica e continua sendo seu maior diferencial.)*
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
