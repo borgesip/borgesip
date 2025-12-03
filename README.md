@@ -1,10 +1,11 @@
 # Hi there, I'm Ian Borges! 👋
 
-Computer Engineering undergraduate with a passion for using data and technology to solve complex business problems. I leverage my skills in **Python, SQL, and AWS** to analyze processes, extract insights, and bridge the gap between business needs and technical solutions.
+Computer Engineering undergraduate focusing on **Site Reliability Engineering (SRE)** and **High Performance Computing (HPC)**. I apply software engineering rigor to infrastructure automation, prioritizing Clean Code, security, and system scalability.
 
-- 🔭 I’m currently developing a data-driven API on AWS to manage and analyze content metrics, leveraging DynamoDB.
-- 🌱 I’m currently deepening my knowledge in data visualization tools and advanced SQL techniques.
-- 💬 Ask me about Python, AWS, Data Analysis, and Business Intelligence.
+- 🔭 **I’m currently working on:** HPC Cluster maintenance and automation.
+- 🌱 **I’m currently deepening my knowledge in:** Linux Systems Performance, Kernel Internals, and Advanced Python (Fluent Python).
+- ⚡ **Core Stack:** Python, Linux (RHEL/Debian), Bash, AWS.
+- 💬 **Ask me about:** Systems Architecture, Infrastructure Automation, and Python.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/borgesip) | borgesip@pm.me
 
 ---
