@@ -8,7 +8,13 @@ Computer Engineering senior student with **2+ years of experience in IT & Infras
 
 - 🎓 **Education:** B.S. in Computer Engineering at **Universidade Virtual do Estado de São Paulo (UNIVESP)**
 - ☁️ **AWS Focus:** EC2, S3, VPC, IAM, CloudWatch, Route 53
-- 🛠️ **Current Goal:** Transitioning into full-time Remote Cloud Support/Engineering roles ($3.5k+ USD target) and pursuing the **AWS Certified Solutions Architect – Associate (SAA-C03)**.
+
+
+---
+
+## ☁️ Stack & Tools
+ 
+`AWS` `Linux` `Bash` `Python` `Terraform` `Git`
 
 ---
 
@@ -22,6 +28,13 @@ Computer Engineering senior student with **2+ years of experience in IT & Infras
 
 **Operations & Tools:**
 `Incident Management` `Troubleshooting` `Bash/Shell Scripting` `Git/GitHub`
+
+---
+
+## 📜 Certifications
+ 
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect – Associate *(in progress)*
 
 ---
 
