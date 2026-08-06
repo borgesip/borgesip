@@ -36,11 +36,6 @@ Computer Engineering senior student with **2+ years of experience in IT & Infras
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate *(in progress)*
 
----
-
-### 📊 GitHub Stats
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
