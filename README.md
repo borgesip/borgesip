@@ -1,25 +1,23 @@
 # Hi, I'm Ian Borges 👋
 
-**Computer Engineer | IT Systems & Infrastructure Specialist at ITA**  
-Leveraging **SRE, Systems Performance, and Low-Level Linux** expertise to drive **Offensive & Defensive Cybersecurity**.
+**Computer Engineer | IT Systems & Infrastructure Specialist at ITA**
 
-- 🏢 **Current Role:** IT Systems & Infrastructure Specialist at ITA (Aeronautics Institute of Technology).
-- 🎯 **Target Focus:** Web/API Penetration Testing, Active Directory Security, Infrastructure Defense.
-- 🌱 **Deepening Technical Knowledge:** Linux Kernel Internals, OWASP Top 10, Network Exploitation, Python Security Automation.
-- 🧪 **Hands-on Practice:** Active researcher on **Hack The Box** and **PortSwigger Web Security Academy**.
-- 📫 **Connect:** [LinkedIn](https://linkedin.com/in/borgesip) | borgesip@pm.me
+Computer Engineering student leveraging a solid foundation in system administration, enterprise networking, and Linux/Windows environments to focus on **Web Application Security**, **API Penetration Testing**, and **Active Directory Exploitation**.
 
 ---
 
-### 🛠️ Technical Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🔍 Technical Focus & Hands-on Scope
+- 🛡️ **Cybersecurity Focus:** Web/API Vulnerability Assessment (OWASP Top 10), Active Directory Attacks, Network Reconnaissance.
+- ⚙️ **Infrastructure & Systems:** Linux/Windows System Administration, Network Troubleshooting, Access & Identity Management (AD).
+- 🧪 **Continuous Training:** Active practitioner on **PortSwigger Web Security Academy** and **Hack The Box**.
 
 ---
 
+### 🛠️ Core Tech Stack & Tools
+- **Languages & Scripting:** Python, Bash, C, SQL
+- **Security Tools:** Burp Suite, Nmap, Wireshark, Impacket, Metasploit
+- **Infrastructure & OS:** Linux (Debian/RHEL), Windows Server, Active Directory, Docker, Git
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/borgesip) | **Email:** borgesip@pm.me
