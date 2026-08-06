@@ -6,7 +6,7 @@
 ### 🚀 About Me
 Computer Engineering senior student with **2+ years of experience in IT & Infrastructure Support**, moving toward **Cloud Engineering and Cloud Support Specialist** roles. Fluent in English and experienced in OS-level troubleshooting, networking, and cloud services implementation.
 
-- 🎓 **Education:** B.S. in Computer Engineering at **Instituto Tecnológico de Aeronáutica (ITA)** (Expected Graduation: 2026/2027)
+- 🎓 **Education:** B.S. in Computer Engineering at **Universidade Virtual do Estado de São Paulo (UNIVESP)**
 - ☁️ **AWS Focus:** EC2, S3, VPC, IAM, CloudWatch, Route 53
 - 🛠️ **Current Goal:** Transitioning into full-time Remote Cloud Support/Engineering roles ($3.5k+ USD target) and pursuing the **AWS Certified Solutions Architect – Associate (SAA-C03)**.
 
