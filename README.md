@@ -36,9 +36,17 @@ Computer Engineering senior student with **2+ years of experience in IT & Infras
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate *(in progress)*
 
+---
+ 
+### 📌 Featured Projects
+ 
+| Project | Description | Stack |
+|---|---|---|
+
 
 ---
 
+
 ### 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/borgesip)
-- **Email:** [seu-email@dominio.com](mailto:borgesip@pm.me)
+- **LinkedIn:** [linkedin.com/in/borgesip](https://linkedin.com/in/borgesip)
+- **Email:** [borgesip@pm.me](mailto:borgesip@pm.me)
